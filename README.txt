@@ -11,4 +11,12 @@ git branch dev
 git status
 
 
+
+
+
+
+git switch dev
+
+
+
 git branch main
